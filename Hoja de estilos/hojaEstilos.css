@@ -1,0 +1,65 @@
+.body{
+    background-color: darkslategray;
+    color: white;
+    margin: 1em;
+}
+
+.fuente1{
+    font-family: 'Futura';
+}
+
+.fuente2{
+    font-family: 'Futura_Bold';
+}
+
+.fuente3{
+    font-family: 'sans-serif';
+}
+
+.size1{
+    font-size: 2em;
+}
+
+.size2{
+    font-size: 2em;
+}
+
+.size3{
+    font-size: 2em;
+}
+
+p{
+    color: black;
+}
+
+.color1 {
+    background-color: gray;
+    width: 12em;
+    height: 20em;
+    margin-right: 1em;
+}
+
+.color2 {
+    background-color: #DE4F32;
+    width: 12em;
+    height: 20em;
+    margin-right: 1em;
+}
+
+.color3 {
+    background-color: black;
+    width: 12em;
+    height: 20em;
+    margin-right: 1em;
+}
+
+.color4 {
+    background-color: #ECECEC;
+    width: 12em;
+    height: 20em;
+    margin-right: 1em;
+}
+
+.img{
+    margin: 0.5em;
+}
